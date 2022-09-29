@@ -139,7 +139,7 @@
         const CAT3 = "https://cataas.com/cat/595f280b557291a9750ebf65/says/JavaScript";
 
         const [counter, setCounter] = React.useState(
-          jsonLocalStorage.getItem('counter')
+          jsonLocalStorage.getItem('counter') || 1
         );
         const [mainCat, setMainCat] = React.useState(CAT1);
         const [fav, setFav] = React.useState(jsonLocalStorage.getItem("favorites") || [])
