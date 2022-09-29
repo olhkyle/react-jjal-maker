@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-jjal-maker/static/css/main.22945f07.css",
+    "main.js": "/react-jjal-maker/static/js/main.47ac2fc1.js",
+    "index.html": "/react-jjal-maker/index.html",
+    "main.22945f07.css.map": "/react-jjal-maker/static/css/main.22945f07.css.map",
+    "main.47ac2fc1.js.map": "/react-jjal-maker/static/js/main.47ac2fc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22945f07.css",
+    "static/js/main.47ac2fc1.js"
+  ]
+}
